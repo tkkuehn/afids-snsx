@@ -1,3 +1,5 @@
+# Sterotactinc Neurosurgery Dataset (SNSX)
+
 The Stereotactic Neurosurgery (SNSX) dataset consists of 32 healthy participants (46.2 ± 13.5 years; median: 48 years; range: 20–70 years; 12 female and 20 male; right-handed).
 
 Imaging: 
